@@ -9,7 +9,7 @@ import { Toaster } from "react-hot-toast";
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename="/admin-dashboard">
         <Routes>
           <Route path="/" element={<MainLayout />}>
             <Route index element={<DashboardPage />} />

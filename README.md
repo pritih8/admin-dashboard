@@ -112,6 +112,6 @@ yarn build
 
 **Priti Hazra**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: pritih8(https://github.com/pritih8/)
 - LinkedIn: https://www.linkedin.com/in/priti-h/
 - Email: pritih8@gmail.com

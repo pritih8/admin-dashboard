@@ -61,7 +61,7 @@ A responsive admin dashboard application built with React and Tailwind CSS, feat
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/admin-dashboard.git
+   git clone https://github.com/pritih8/admin-dashboard.git
    cd admin-dashboard
    ```
 
@@ -112,6 +112,6 @@ yarn build
 
 **Priti Hazra**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: pritih8(https://github.com/pritih8/)
 - LinkedIn: https://www.linkedin.com/in/priti-h/
 - Email: pritih8@gmail.com
